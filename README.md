@@ -1,4 +1,6 @@
-# This program interacts with Twilio and OpenWeather APIs to send daily texts about the weather forecast for the current day
+# Daily Weather Notifier
+
+This program interacts with Twilio and OpenWeather APIs to send daily texts about the weather forecast for the current day
 
 # Next steps:
 
