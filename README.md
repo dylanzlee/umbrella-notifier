@@ -1,4 +1,4 @@
-# Daily Weather Notifier
+# Umbrella Notifier
 
 This program interacts with Twilio and OpenWeather APIs to send daily texts about the weather forecast for the current day
 
